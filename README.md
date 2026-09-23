@@ -1,1 +1,2 @@
 # DAY-13-LAB-13
+RAG & Source Verification | genai-rag-source-verification     | Explored Retrieval-Augmented Generation by comparing ungrounded and source-based AI answers using official aviation information. The work focused on checking claims against sources, identifying unsupported information, preserving conditions, handling missing information, and understanding why human verification is important.
